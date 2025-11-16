@@ -1,6 +1,6 @@
 # O Império do Layout
 
-![Capa do Podcast O Império do Layout](assets/capapodcastfroggy.png)
+![Capa do Podcast O Império do Layout](assets/imagemcapapodcast.png)
 
 <svg fill="none" width="200" height="200" xmlns="http://www.w3.org/2000/svg">
   <!-- Background with gradient -->
