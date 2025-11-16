@@ -17,7 +17,7 @@
   <!-- Main Title -->
   <text 
     x="50%" 
-    y="280" 
+    y="50%" 
     text-anchor="middle" 
     fill="#c9d1d9" 
     font-size="70" 
@@ -27,12 +27,12 @@
   </text>
 
   <!-- Divider with shadow -->
-  <rect x="300" y="320" width="600" height="4" fill="#30363d" filter="url(#shadow)"/>
+  <rect x="300" y="360" width="600" height="4" fill="#30363d" filter="url(#shadow)"/>
 
   <!-- Subtitle -->
   <text 
     x="50%" 
-    y="400" 
+    y="70%" 
     text-anchor="middle" 
     fill="#f1e05a" 
     font-size="32" 
@@ -42,10 +42,10 @@
   </text>
 
   <!-- Decorative Icon -->
-  <circle cx="1100" cy="100" r="50" fill="#f1e05a" />
+  <circle cx="50%" cy="20%" r="50" fill="#f1e05a" />
   <text 
-    x="1100" 
-    y="115" 
+    x="50%" 
+    y="20%" 
     text-anchor="middle" 
     fill="#0d1117" 
     font-size="24" 
