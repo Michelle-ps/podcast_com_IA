@@ -1,6 +1,7 @@
-![Capa do Podcast O Império do Layout](podcast_capa.svg)
+![Capa do Podcast O Império do Layout](assets/capapodcast.png)
 
 # O Império do Layout
+
 <svg fill="none" width="1200" height="630" xmlns="http://www.w3.org/2000/svg">
   <rect width="1200" height="630" fill="#0d1117"/>
 
@@ -27,3 +28,7 @@
     Onde o CSS sempre contra-ataca os bugs.
   </text>
 </svg>
+
+---
+
+Atualizamos a capa do podcast para refletir a nova identidade visual. Confira a imagem acima!
