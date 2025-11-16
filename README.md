@@ -12,47 +12,32 @@
   </defs>
   <rect width="200" height="200" fill="url(#bgGradient)"/>
 
-  <!-- Main Title -->
-  <text 
-    x="50%" 
-    y="50%" 
-    text-anchor="middle" 
-    fill="#c9d1d9" 
-    font-size="20" 
-    font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji'"
-    font-weight="bold">
-    O Império do Layout
-  </text>
-
-  <!-- Divider with shadow -->
-  <rect x="50" y="100" width="100" height="2" fill="#30363d" filter="url(#shadow)"/>
-
-  <!-- Subtitle -->
-  <text 
-    x="50%" 
-    y="80%" 
-    text-anchor="middle" 
-    fill="#f1e05a" 
-    font-size="12" 
-    font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji'"
-    font-style="italic">
-    Onde o CSS sempre contra-ataca os bugs.
-  </text>
-
-  <!-- Decorative Icon -->
-  <circle cx="50%" cy="20%" r="20" fill="#f1e05a" />
-  <text 
-    x="50%" 
-    y="20%" 
-    text-anchor="middle" 
-    fill="#0d1117" 
-    font-size="8" 
-    font-family="Arial, sans-serif" 
-    font-weight="bold">
-    CSS
-  </text>
-</svg>
-
 ---
 
-Atualizamos a capa do podcast para refletir a nova identidade visual. Confira a imagem acima!
+## 🚀 Sobre o Podcast
+
+E aí, Padawans do front-end! Bem-vindos ao **O Império do Layout**, o seu podcast focado em desbravar a galáxia do desenvolvimento web.
+
+Nossa missão é ajudar você, que está começando sua jornada, a entender o universo do front-end de um jeito fácil, divertido e sem termos técnicos complicados. Falamos sobre dicas, novidades do mercado e as ferramentas que vão te ajudar a construir layouts sólidos e contra-atacar qualquer bug!
+
+## 🎙️ Apresentação
+
+<p align="left">
+  <img src="assets/avatar_michelle_100.png" alt="Michelle, a apresentadora" width="100px" style="border-radius: 50%;"/>
+  <br/>
+  <strong>Michelle</strong>
+</p>
+
+Toda semana, eu, Michelle, serei sua guia pela Força do HTML, CSS e JavaScript, trazendo os códigos e as novidades direto dos confins da galáxia da tecnologia.
+
+## 🎧 Onde Ouvir
+
+* [🎧 SoudCloud](https://on.soundcloud.com/j5ul2c0QeFNM7TJfuD)
+
+## 📜 Episódios
+
+#### Episódio 01: O Cheat Code do CSS e o Sapo do Flexbox
+* **Curiosidade 1 (CSS):** A regra de ouro do `box-sizing: border-box;` que todo dev precisa saber.
+* **Curiosidade 2 (Ferramenta):** Como o **Flexbox Froggy** pode te ajudar a dominar o Flexbox de um jeito divertido.
+
+*(Mais episódios em breve...)*
