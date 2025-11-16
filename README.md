@@ -22,12 +22,6 @@ Nossa missão é ajudar você, que está começando sua jornada, a entender o un
 
 ## 🎙️ Apresentação
 
-<p align="left">
-  <img src="assets/avatar_michelle_100.png" alt="Michelle, a apresentadora" width="100px" style="border-radius: 50%;"/>
-  <br/>
-  <strong>Michelle</strong>
-</p>
-
 Toda semana, eu, Michelle, serei sua guia pela Força do HTML, CSS e JavaScript, trazendo os códigos e as novidades direto dos confins da galáxia da tecnologia.
 
 ## 🎧 Onde Ouvir
